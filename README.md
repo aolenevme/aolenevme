@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @eshekak
-- 👀 I write tests =)
+👋 Hi, I’m @eshekak. I write tests 👀
