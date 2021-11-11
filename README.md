@@ -1,6 +1,6 @@
 👋 I’m Alexander Olenev!
 
-**Experienced JavaScript and Golang Developer**
+**Experienced in JavaScript and Golang**
 
 Always open to suggestions!
 
