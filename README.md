@@ -2,4 +2,4 @@
 
 **Senior Fullstack Engineer** 🧑🏼‍💻
 
-[Email](mailto:hello@aolenev.me) [Telegram](https://t.me/aolenevme) [Leetcode](https://leetcode.com/aolenevme/) [LinkedIn](https://www.linkedin.com/in/alexander-olenev-a853241b3/)
+[Email](mailto:hello@aolenev.me) [Telegram](https://t.me/aolenevme) [Leetcode](https://leetcode.com/aolenevme/) [LinkedIn](https://www.linkedin.com/in/aolenevme/)
