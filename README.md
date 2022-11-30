@@ -1,6 +1,6 @@
 <div align="center">
 
-![Alexander Olenev Logo](https://aolenev.me/cdn/aolenev_me.png)
+<img alt="Alexander Olenev Logo" height="160" src="https://aolenev.me/cdn/aolenev_me.png" width="174" />
 
 # Hi!  👋🏻  I’m Alexander Olenev
 
