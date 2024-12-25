@@ -4,7 +4,7 @@
 
 # Hi!  👋🏻  I’m Alexander Olenev
 
-**Senior Frontend Engineer**
+**Teamlead at Yandex**
 
 [Website](https://www.aolenev.me) [Email](mailto:hello@aolenev.me) [Telegram](https://t.me/aolenevme) [Leetcode](https://leetcode.com/aolenevme/) [LinkedIn](https://www.linkedin.com/in/aolenevme/)
 
